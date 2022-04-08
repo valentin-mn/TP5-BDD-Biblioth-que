@@ -2,7 +2,7 @@
 
 ## Le lien vers le site pythonanywhere
 
-[🌐] : http://vmunch2.pythonanywhere.com/
+🌐 : http://vmunch2.pythonanywhere.com/
 
 ## Le fichier SQL associé
 
