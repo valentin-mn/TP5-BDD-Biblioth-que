@@ -24,7 +24,7 @@
 
 ✅ semaine 11   : oeuvre  exemplaire 
 
-❌ semaine   12 : exemplaire / emprunt
+✅ semaine   12 : exemplaire / emprunt
 
 ❌ semaine   13 : validator emprunt / MVC / ORM  (sujet TP6)
 
